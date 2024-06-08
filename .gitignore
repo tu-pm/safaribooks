@@ -8,6 +8,7 @@ __pycache__/
 
 Books/
 
+.cookies
 cookies.json
 *.log
 *.txt
